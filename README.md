@@ -1,2 +1,2 @@
-# Module2
+# Module2 Solution
 Coursera module2 solution
